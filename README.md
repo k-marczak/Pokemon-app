@@ -34,5 +34,5 @@ $ npm start
 
 ## Demo
 
-Live demo 
+Live demo https://pokemonapp1.netlify.app/
 
