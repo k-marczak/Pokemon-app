@@ -1,4 +1,5 @@
 import React from 'react';
+import './style.css'
 
 function Card({ pokemon }) {
     return(
@@ -6,7 +7,7 @@ function Card({ pokemon }) {
             <div className="Card_img">
                 <img src={pokemon.sprites.front_default} alt="" />
             </div>
-            <div className="Card_Name">
+            <div className="Card_name">
                 {pokemon.name}
             </div>
             <div className="Card_types">

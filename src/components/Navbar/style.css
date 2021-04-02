@@ -1,0 +1,13 @@
+.Navbar {
+    padding: 20px;
+    background: #FF4236 !important;
+    color: white;
+    z-index: 10000;
+}
+
+
+.headTitle{
+    font-family: 'Righteous', cursive;
+    font-size: 32px;
+    margin-left: 80px;
+}
